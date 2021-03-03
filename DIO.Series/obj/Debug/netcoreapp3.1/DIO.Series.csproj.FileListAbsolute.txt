@@ -1,0 +1,13 @@
+C:\workspace\Desafio 1 Criando um APP Cadastro\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\workspace\Desafio 1 Criando um APP Cadastro\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\workspace\Desafio 1 Criando um APP Cadastro\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\workspace\Desafio 1 Criando um APP Cadastro\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\workspace\Desafio 1 Criando um APP Cadastro\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\workspace\Desafio 1 Criando um APP Cadastro\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\workspace\Desafio 1 Criando um APP Cadastro\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\workspace\Desafio 1 Criando um APP Cadastro\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\workspace\Desafio 1 Criando um APP Cadastro\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\workspace\Desafio 1 Criando um APP Cadastro\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\workspace\Desafio 1 Criando um APP Cadastro\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\workspace\Desafio 1 Criando um APP Cadastro\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\workspace\Desafio 1 Criando um APP Cadastro\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
